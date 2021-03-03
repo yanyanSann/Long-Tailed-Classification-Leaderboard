@@ -49,13 +49,13 @@ Evaluation metric: classification **error** rate.
 | [Baseline + tricks](https://cs.nju.edu.cn/wujx/paper/AAAI2021_Tricks.pdf) |     AAAI      | 2021 | ResNet-32 |   OtM   | ----- | 16.41 | 19.97  | ----  | [Source](https://cs.nju.edu.cn/wujx/paper/AAAI2021_Tricks.pdf) |
 |        [Remix-DRW](https://arxiv.org/abs/2007.03943)         | ECCV-Workshop | 2020 | ResNet-32 |   Aug   | 10.98 | ----- | 20.24  | ----  |          [Source](https://arxiv.org/abs/2007.03943)          |
 
-#####Backbone: ResNet-18
+##### Backbone: ResNet-18
 
 |                 Method                  | Venue | Year | Backbone  | Type | IF=10 | IF=50 | IF=100 | Code |                Reported by                 |
 | :-------------------------------------: | :---: | :--: | --------- | :--: | :---: | :---: | :----: | :--: | :----------------------------------------: |
 | [FSA](https://arxiv.org/abs/2008.03673) | ECCV  | 2020 | ResNet-18 | Aug  | 8.25  | 15.29 | 19.43  | ---- | [Source](https://arxiv.org/abs/2008.03673) |
 
-#####Backbone: ResNet-34
+##### Backbone: ResNet-34
 
 Method   | Venue | Year | Backbone   | Type | IF=10     | IF=50 | IF=100    | Code | Reported by 
 :-----: | :----: | :--: | --------   | :---:    | :---:   | :---:    | :--: | :--: | :--:
@@ -100,7 +100,7 @@ Method   | Venue | Year | Backbone   | Type | IF=10     | IF=50 | IF=100    | Co
 
 Evaluation metric: closed-set setting/Top-1 classification **accuracy**.
 
-#####Backbone: ResNet-10
+##### Backbone: ResNet-10
 
 |                            Method                            |  Venue  | Year | Backbone  | Type | Many-Shot | Medium-Shot | Few-Shot |  ALL  | Code | Reported by                                                  |
 | :----------------------------------------------------------: | :-----: | :--: | :-------: | :--: | :-------: | :---------: | :------: | :---: | :--: | ------------------------------------------------------------ |
@@ -113,13 +113,13 @@ Evaluation metric: closed-set setting/Top-1 classification **accuracy**.
 |        [cRT + SSP](https://arxiv.org/abs/2006.07529)         | NeurIPS | 2020 | ResNet-10 | SeSu |   -----   |    -----    |   ----   | 43.2  | ---- | [Source](https://arxiv.org/abs/2006.07529)                   |
 | [Baseline + tricks](https://cs.nju.edu.cn/wujx/paper/AAAI2021_Tricks.pdf) |  AAAI   | 2021 | ResNet-10 | OtM  |   -----   |    -----    |   ----   | 43.31 | ---- | [Source](https://cs.nju.edu.cn/wujx/paper/AAAI2021_Tricks.pdf) |
 
-#####Backbone: ResNeXt-50
+##### Backbone: ResNeXt-50
 
 |                 Method                  | Venue | Year |  Backbone  | Type | Many-Shot | Medium-Shot | Few-Shot | ALL  | Code | Reported by                                |
 | :-------------------------------------: | :---: | :--: | :--------: | :--: | :-------: | :---------: | :------: | :--: | :--: | ------------------------------------------ |
 | [LWS](https://arxiv.org/abs/1910.09217) | ICLR  | 2020 | ResNeXt-50 | DeL  |   60.2    |    47.2     |   30.3   | 49.9 | ---- | [Source](https://arxiv.org/abs/1910.09217) |
 
-#####Backbone: ResNeXt-152
+##### Backbone: ResNeXt-152
 
 Method   | Venue | Year | Backbone   | Type  | Many-Shot     | Medium-Shot | Few-Shot | ALL |Code | Reported by 
 :-----: | :----: | :--: | :------:   | :---:    | :---:   | :---:    | :--: | :--: | :--: | ----
@@ -150,7 +150,7 @@ Method   | Venue | Year | Backbone | Type  | Many-Shot     | Medium-Shot | Few-S
 
 Evaluation metric: Top-1 classification **accuracy**
 
-#####Backbone: ResNet-50
+##### Backbone: ResNet-50
 
 |                            Method                            |     Venue     | Year | Backbone  | Type | iNat-2017(Top1) |  iNat-2018(Top1)   | Code |                         Reported by                          |
 | :----------------------------------------------------------: | :-----------: | :--: | :-------: | :--: | :-------------: | :----------------: | :--: | :----------------------------------------------------------: |
@@ -165,7 +165,7 @@ Evaluation metric: Top-1 classification **accuracy**
 | [Baseline + tricks](https://cs.nju.edu.cn/wujx/paper/AAAI2021_Tricks.pdf) |     AAAI      | 2021 | ResNet-50 | OtM  |      -----      |       70.87        | ---- |          [Source](https://arxiv.org/abs/2007.10740)          |
 |        [Remix-DRS](https://arxiv.org/abs/2007.03943)         | ECCV-Workshop | 2020 | ResNet-50 | Aug  |      -----      |       70.74        | ---- |          [Source](https://arxiv.org/abs/2007.03943)          |
 
-#####Backbone: ResNet-152
+##### Backbone: ResNet-152
 
 Method   | Venue | Year | Backbone   |Type  | iNat-2017(Top1)  | iNat-2018(Top1)  | Code | Reported by 
 :-----: | :----: | :--: | :------:   | :---:   | :---:    | :--:  | :--:  | :--: 
