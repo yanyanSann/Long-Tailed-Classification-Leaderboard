@@ -180,20 +180,23 @@ Yongshun Zhang: zhangys@lamda.nju.edu.cn
 
 
 ## 5. References
-- Cui et.al., Class-Balanced Loss Based on Effective Number of Samples, CVPR 2019. 
+### 2019
 - Shu et.al., Meta-Weight-Net: Learning an Explicit Mapping For Sample Weighting, NeurIPS 2019.
 - Cao et.al., Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss, NeurIPS 2019.
+- Cui et.al., Class-Balanced Loss Based on Effective Number of Samples, CVPR 2019. 
+### 2020
+- Tang et.al., Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect, NeurIPS 2020.
+- Yang et.al., Rethinking the Value of Labels for Improving Class-Imbalanced Learning, NeurIPS 2020.
+- Ren et.al., Balanced Meta-Softmax for Long-Tailed Visual Recognition, NeurIPS 2020.
 - Kang et.al., Decoupling Representation and Classifier for Long-Tailed Recognition, ICLR 2020.
 - Kim et.al., M2m: Imbalanced Classification via Major-to-minor Translation, CVPR 2020.
 - Zhou et.al., BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition, CVPR 2020.
-- Tang et.al., Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect, NeurIPS 2020.
-- Zhu et.al., Inflated Episodic Memory with Region Self-Attention for Long-Tailed Visual Recognition, CVPR 2020.
-- Yang et.al., Rethinking the Value of Labels for Improving Class-Imbalanced Learning, NeurIPS 2020.
-- Liu et.al., Large-Scale Long-Tailed Recognition in an Open World, CVPR 2019.
-- Ren et.al., Balanced Meta-Softmax for Long-Tailed Visual Recognition, NeurIPS 2020.
 - Jamal et.al., Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition from a Domain Adaptation Perspective, CVPR 2020.
+- Zhu et.al., Inflated Episodic Memory with Region Self-Attention for Long-Tailed Visual Recognition, CVPR 2020.
+- Liu et.al., Large-Scale Long-Tailed Recognition in an Open World, CVPR 2019.
 - Xiang et.al., Learning From Multiple Experts: Self-paced Knowledge Distillation for Long-tailed Classification, ECCV 2020.
 - Chu et.al., Feature Space Augmentation for Long-Tailed Data, ECCV 2020.
 - Ren et.al., Balanced Activation for Long-tailed Visual Recognition, ECCV 2020.
-- Zhang et.al., Bag of Tricks for Long-Tailed Visual Recognition with Deep Convolutional Neural Networks, AAAI 2021.
 - Chou et.al., Remix: Rebalanced Mixup, ECCV'2020 Workshop.
+### 2021
+- Zhang et.al., Bag of Tricks for Long-Tailed Visual Recognition with Deep Convolutional Neural Networks, AAAI 2021.
