@@ -1,5 +1,5 @@
 # Long-Tailed-Classification-Leaderboard
-date: 2021/3/3（Updated 2021/3/3）
+date: 2021/3/3（Updated 2021/3/3）<br />
 auther: YW YSZ
 
 ## 1. Introduction
@@ -32,7 +32,7 @@ Evaluation metric: classification **error** rate.
 
 ``IF`` represents ``Imbalance factor``.
 
-#####Backbone: ResNet-32
+##### Backbone: ResNet-32
 
 |                            Method                            |     Venue     | Year | Backbone  |  Type   | IF=10 | IF=50 | IF=100 | Code  |                         Reported by                          |
 | :----------------------------------------------------------: | :-----------: | :--: | --------- | :-----: | :---: | :---: | :----: | :---: | :----------------------------------------------------------: |
